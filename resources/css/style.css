@@ -402,6 +402,8 @@ header {
     margin-right: 25px;
 }
 
+/* button styles */
+
 .btn-app:link,
 .btn-app:visited {
     border: none;
